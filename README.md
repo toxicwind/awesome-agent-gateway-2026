@@ -1,29 +1,29 @@
+<div align="right">
+
+![Awesome](https://img.shields.io/badge/awesome-list-ff69b4.svg?style=for-the-badge)
+![Updated](https://img.shields.io/badge/updated-July_2026-0ea5e9.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.12%2B-3776ab.svg?style=for-the-badge)
+![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg?style=for-the-badge)
+
+</div>
+
 # 🚀 Awesome Agent Gateway 2026
 
-> A curated, opinionated list of agent gateway frameworks, SDKs, and tools for
-> building production-ready multi-agent systems in 2026.
->
-> **Last Updated**: July 2026 | **Python**: 3.12+ | **License**: CC0-1.0
+**A curated, opinionated list of agent gateway frameworks, SDKs, and tools for building production-ready multi-agent systems in 2026.**
+
+> **Why should I care?** The agent ecosystem exploded in 2026 — every provider ships a runtime, gateway, or orchestration layer. This list cuts through the noise: every entry is production-ready, actively maintained (commits within 3 months), well-documented, and not locked to a single provider. One page, zero affiliate links, zero paid placement.
 
 <p align="center">
-  <img src="assets/banner.png" alt="Awesome Agent Gateway 2026" width="800">
-</p>
-
-<p align="center">
-  <a href="#frameworks">Frameworks</a> •
-  <a href="#sdks">SDKs</a> •
-  <a href="#gateways">Gateways</a> •
-  <a href="#tools">Tools</a> •
-  <a href="#resources">Resources</a>
+  <a href="#-frameworks">Frameworks</a> •
+  <a href="#-sdks">SDKs</a> •
+  <a href="#-gateways">Gateways</a> •
+  <a href="#%EF%B8%8F-tools">Tools</a> •
+  <a href="#-resources">Resources</a>
 </p>
 
 ---
 
 ## ✨ Why This List?
-
-In 2026, the agent ecosystem has exploded. Every major AI provider now offers
-some form of agent runtime, gateway, or orchestration layer. This list cuts
-through the noise to highlight tools that are:
 
 - **Production-ready** — battle-tested in real workloads
 - **Actively maintained** — commits within the last 3 months
@@ -137,17 +137,9 @@ through the noise to highlight tools that are:
 
 ---
 
-## 🏆 Star History
-
-<p align="center">
-  <img src="assets/star-history.png" alt="Star History" width="600">
-</p>
-
----
-
 ## 🤝 Contributing
 
-Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+Contributions welcome!
 
 1. Fork the repository
 2. Create a feature branch
@@ -165,10 +157,9 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ## 📜 License
 
-This list is licensed under [CC0-1.0](LICENSE).
+This list is dedicated to the public domain under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-> To the extent possible under law, the contributors have waived all copyright
-> and related or neighboring rights to this work.
+> To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
 ---
 
